@@ -1,0 +1,7 @@
+Django==1.9.8
+seaborn
+numpy
+pandas
+matplotlib
+pillow
+PIL
